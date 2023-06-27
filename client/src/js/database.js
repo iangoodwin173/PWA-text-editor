@@ -13,7 +13,7 @@ const initdb = async () =>
   });
 
 // Logic to accept content and add to DB
-export const putDb = async (content) => console.error('putDb not implemented'); {
+export const putDb = async (content) => {
 // DB and DB Version
 const jateDB = await openDB("jate", 1);
 
@@ -29,10 +29,10 @@ const req = store.put({ id: 1, value: content });
 // Confirms that data has been added to DB
 const res = await req;
 console.log('Data saved to DB', res);
-}
+};
 
 // Logic that gets all content from the database
-export const getDb = async () => console.error('getDb not implemented'); {
+export const getDb = async () => {
 
 // Open DB and DB Version
 const jateDb = await openDB("jate", 1);
