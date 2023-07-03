@@ -21,10 +21,7 @@
   ## Installation
   Clone the repo to your local machine, run 'npm install', and run 'npm run start'
 
-  ## Test
-  
-
-  ## Contributing
+  ## Screenshots
   
 
   ## Questions
