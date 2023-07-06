@@ -33,9 +33,9 @@
 
   -Below is the application and the IndexedDB initial storage
 
-  ![Screenshot (11)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/4c1bbb29-8007-454b-8d73-c332fb3561a1)
+  ![Screenshot (11)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/f7b02d3e-9f59-4341-9bd9-7f605bf63209)
 
   -Below is the application and the cache
 
-  ![Screenshot (12)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/3ad6a7bd-fd53-49eb-8a59-2eef291c2161)
+  ![Screenshot (12)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/7f3647f8-381c-457d-a86a-567e39997057)
 
