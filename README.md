@@ -39,3 +39,8 @@
 
   ![Screenshot (12)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/7f3647f8-381c-457d-a86a-567e39997057)
 
+  -Below is the application's installed Service Workers
+
+  ![Screenshot (7)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/8d2d5615-28de-4c46-8fb7-65a93c713950)
+
+
