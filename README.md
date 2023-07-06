@@ -26,16 +26,16 @@
 
   ## Pictures
 
-  ## Below is the application and it's manifest.json file
+  -Below is the application and it's manifest.json file
 
   ![Screenshot (9)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/b0cca19e-37e3-410d-b8ec-db730b8d738c)
 
 
-  ## Below is the application and the IndexedDB initial storage
+  -Below is the application and the IndexedDB initial storage
 
   ![Screenshot (11)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/4c1bbb29-8007-454b-8d73-c332fb3561a1)
 
-  ## Below is the application and the cache
+  -Below is the application and the cache
 
   ![Screenshot (12)](https://github.com/iangoodwin173/PWA-text-editor/assets/122403641/3ad6a7bd-fd53-49eb-8a59-2eef291c2161)
 
